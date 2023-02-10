@@ -1,0 +1,14 @@
+{
+    "categories": {
+        "0": "visual elements",
+        "1": "input forms",
+        "2": "data (things)"
+    },
+    "description": "Note: This plugin is unmaintained and may have significant bugs. It is offered for use at your own risk, and no support is available. The plugin is open source and you are welcome to maintain your own fork.\n\nEvaluate an expression using Math.js locally, without contacting the API. Useful for very large expressions which will fail on the API.",
+    "image": "",
+    "instructions": "Add the element to your page. Set the expression in the element properties and you can then access the result from the element as either a Text or a Number.",
+    "license": "open_source",
+    "link": "http://mathjs.org/docs/expressions/index.html",
+    "name": "Dtt - Math.js (forked)",
+    "plugin_instructions": "Add the element to your page. Set the expression in the element properties and you can then access the result from the element as either a Text or a Number."
+}
